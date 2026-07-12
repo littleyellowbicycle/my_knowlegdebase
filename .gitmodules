@@ -1,0 +1,21 @@
+[submodule "wealth_manage"]
+	path = wealth_manage
+	url = https://github.com/littleyellowbicycle/wealth_manage.git
+[submodule "life_plan"]
+	path = life_plan
+	url = https://github.com/littleyellowbicycle/life_plan.git
+[submodule "life_skills"]
+	path = life_skills
+	url = https://github.com/littleyellowbicycle/life_skills.git
+[submodule "computer_technology"]
+	path = computer_technology
+	url = https://github.com/littleyellowbicycle/computer_technology.git
+[submodule "self_improvement"]
+	path = self_improvement
+	url = https://github.com/littleyellowbicycle/self_improvement.git
+[submodule "workspace_skills"]
+	path = workspace_skills
+	url = https://github.com/littleyellowbicycle/workspace_skills.git
+[submodule "social_sciences"]
+	path = social_sciences
+	url = https://github.com/littleyellowbicycle/social_sciences.git

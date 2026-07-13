@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # 一键克隆大库 + 全部子库
 # 用法: bash clone.sh [子库目录] ...
-#   无参数 → 拉取全部 7 个子库
+#   无参数 → 拉取全部 8 个子库
 #   带参数 → 只拉取指定的子库 (例: bash clone.sh wealth_manage computer_technology)
 
 set -e
@@ -18,6 +18,7 @@ ALL_SUBS=(
   "self_improvement"
   "workspace_skills"
   "social_sciences"
+  "openSource_insight"
 )
 
 echo ">>> 克隆大库到 ./$TARGET_DIR ..."

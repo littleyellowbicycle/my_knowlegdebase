@@ -19,3 +19,6 @@
 [submodule "social_sciences"]
 	path = social_sciences
 	url = https://github.com/littleyellowbicycle/social_sciences.git
+[submodule "openSource_insight"]
+	path = openSource_insight
+	url = https://github.com/littleyellowbicycle/openSource_insight.git
